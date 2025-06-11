@@ -1,18 +1,17 @@
 # Dependencies
-node_modules/
+node_modules
 .pnp
 .pnp.js
 
 # Testing
-coverage/
+coverage
 
 # Production
-dist/
-build/
+dist
+build
 
 # Misc
 .DS_Store
-.env
 .env.local
 .env.development.local
 .env.test.local
